@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/him
 - 📫 Reach out to me at enzofalone123@gmail.com
-- 🌱 Currently learning about web development in the MERN stack
+- 🌱 Currently learning about web development in the PERN stack
 
 <!--
 **enzofalone/enzofalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

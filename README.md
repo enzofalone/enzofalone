@@ -3,8 +3,8 @@
 [![Github](https://img.shields.io/github/followers/enzofalone?label=Follow&style=social)](https://github.com/enzofalone)
 ### Currently a student in Miami-Dade College
 - Open to contribute and create any idea that goes through my head in the form of software!
-- Looking to help in Web Development projects
-- Reach out to me at <me@enzofalone.com>
+- Looking to help in web/mobile projects
+- Reach out to me at <enzofalone12@gmail.com>
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=enzofalone&theme=dark&show_icons=true)
 

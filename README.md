@@ -4,7 +4,7 @@
 ### Currently a student in Miami-Dade College
 - Open to contribute and create any idea that goes through my head in the form of software!
 - Looking to help in web/mobile projects
-- Reach out to me at <enzofalone12@gmail.com>
+- Reach out to me at <enzofalone123@gmail.com>
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=enzofalone&theme=dark&show_icons=true)
 

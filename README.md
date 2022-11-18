@@ -1,13 +1,16 @@
-## 🌍 Hey! My name is Enzo Falone
+<div align='center'><h1 style="text-align:center">Hey! My name is Enzo Falone</h1>
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=enzofalone.enzofalone)
 [![Github](https://img.shields.io/github/followers/enzofalone?label=Follow&style=social)](https://github.com/enzofalone)
-### Currently a student in Miami-Dade College
-- Open to contribute and create any idea that goes through my head in the form of software!
-- Looking to help in web/mobile projects
-- Reach out to me at <enzofalone123@gmail.com>
+  </div>
+  
+### Currently a student at Miami-Dade College
+* Contact me at <enzofalone123@gmail.com><br/>
+* More information in my [portfolio website](https://www.enzofalone.com)
 
 ![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=enzofalone&theme=dark&show_icons=true)
-
+  
 ## 🔗 Links:
 ![https://www.linkedin.com/in/enzofalone/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -40,3 +43,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  
+  </div>

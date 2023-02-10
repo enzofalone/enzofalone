@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/enzofalone?label=Follow&style=social)](https://github.com/enzofalone)
   </div>
   
-### Currently a student at Miami-Dade College
+### Currently a student at Florida International University
 * Contact me at <enzofalone123@gmail.com><br/>
 * More information in my [portfolio website](https://www.enzofalone.com)
 

@@ -7,7 +7,7 @@
   
 ### Currently a student at Florida International University
 
-I love creating games and software in general!
+I love creating games and software in general! Hit me up in any social media and I will be happy to answer
 
 * Contact me at <enzofalone123@gmail.com><br/>
 * More information in my [portfolio website](https://www.enzofalone.com)

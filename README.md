@@ -6,6 +6,9 @@
   </div>
   
 ### Currently a student at Florida International University
+
+I love creating games and software in general!
+
 * Contact me at <enzofalone123@gmail.com><br/>
 * More information in my [portfolio website](https://www.enzofalone.com)
 
